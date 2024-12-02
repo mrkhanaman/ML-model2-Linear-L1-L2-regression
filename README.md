@@ -71,8 +71,8 @@ The resulting solution is a reliable predictive model for estimating house price
 
 > **Note:** Explore the repository to access the code, cleaned datasets, and evaluation results.
 > 
-> Training Dataset: cleaned_Tain.csv
-> Testing Dataset = cleaned_Test.csv
+> Training Dataset: tain.csv
+> Testing Dataset = test.csv
 >
 > Dataset after EDA: cleaned_Test.csv
 > Dataset after EDA: cleaned_Train.csv
