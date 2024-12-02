@@ -1,4 +1,4 @@
-In this Predictive model to estimate house prices based on the training and test data.
+In this Predictive Model to estimate House prices based on the Training data (train.csv) and Test data (test.csv).
 
  a. Data Exploration:
       - Load and examine the dataset.
