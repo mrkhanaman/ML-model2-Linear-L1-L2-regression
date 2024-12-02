@@ -1,21 +1,27 @@
 In this Predictive Model to estimate House prices based on the Training data (train.csv) and Test data (test.csv).
 
+
  a. Data Exploration:
+ 
       - Load and examine the dataset.
       - Tackle missing values, handle outliers, and clean up the data properly.
         
  b. Feature Engineering or Normalization:
+ 
       - Convert any categorical data into numerical values.
       - Create new features from the existing data if required.
 
  c. Modelling:
+ 
       - Train different models like Linear Regression, Random Forest, and XGBoost.
       - Compare their performance and choose the one that works best.
 
  d. Predictions:
+ 
       * Finally, use the best-performing model to make predictions on the test data.
 
  e. Evaluation:
+ 
       * Use the right metrics to assess the model's performance, such as RMSE or MAE.
 
 Developing model Summary:
