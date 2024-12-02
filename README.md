@@ -17,6 +17,7 @@ In this Predictive model to estimate house prices based on the training and test
 
  e. Evaluation:
       * Use the right metrics to assess the model's performance, such as RMSE or MAE.
+
 Developing model Summary:
 Step 1. Clean the dataset of Train.csv and export the cleaned dataset as cleaned_Train.csv
 Step 2. Create spliting training and testing data on cleaned_train.csv
